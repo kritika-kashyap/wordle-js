@@ -1,0 +1,13 @@
+{
+  "name": "wordlejs",
+  "version": "1.0.0",
+  "description": "A wordle clone written in JS",
+  "main": "wordle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kritika-kashyap",
+  "license": "MIT",
+  "type": "module"
+}
